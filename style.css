@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #c7dfc5;
+  background-color: #ffffff;
 }
 
 body {
@@ -22,7 +22,7 @@ body {
 
 .square {
   border: none;
-  outline: 1px solid rgb(0, 0, 0);
+  outline: 1px solid rgba(0, 0, 0);
   display: inline-block;
 }
 
